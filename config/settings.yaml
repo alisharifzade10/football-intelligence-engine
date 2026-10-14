@@ -1,0 +1,10 @@
+paths:
+  raw_data: data/raw/premier_league
+  processed_data: data/processed
+
+database:
+  name: football
+
+analysis:
+  full_stats_from_season: "2000/01"
+  odds_benchmark_from_season: "2002/03"
